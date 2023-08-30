@@ -1,3 +1,5 @@
 myenv/
 _pycache_/
 *.sqlite3
+db.sqlite3
+
